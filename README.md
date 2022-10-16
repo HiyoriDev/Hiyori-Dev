@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Ryuzia V2](https://discord.gg/9dfAvcZ36v)
 
+- 🧸 Visit my discord bot website [Kuro](http://kurobot.xyz/)
+
 - 📫 How to reach me **nozayiyc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
