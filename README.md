@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ryuzia V2](https://discord.gg/9dfAvcZ36v)
 
-- 🧸 Visit my discord bot website [Kuro](http://kurobot.xyz/)
+- 🧸 Visit my Faction Minecraft website [Spacy](https://spacy-faction.fr/)
 
 - 📫 How to reach me **nozayiyc@gmail.com**
 
